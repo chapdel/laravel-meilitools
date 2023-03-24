@@ -31,7 +31,7 @@ The purpose of this package is to ease the configuration of indexes for MeiliSea
 ## Installation
 Install this package via Composer:
 ```bash
-$ composer require dwarfdk/laravel-meilitools
+$ composer require chapdel/laravel-meilitools
 ```
 
 ## Configuration
